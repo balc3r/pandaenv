@@ -1,0 +1,10 @@
+commit bf5751758ce47418f933ef4d903a5bc4a1132a9f
+tree 60315bd29d0fde58d1190589c1c7b965a577fc6a
+parent 0f4bcce430327b3f5affac8c10383c90aef038f8
+author mariusz <mariusz.balcerzak.pl@gmail.com> 2021-02-22 19:48:32 +0000
+committer mariusz <mariusz.balcerzak.pl@gmail.com> 2021-02-22 19:48:32 +0000
+
+    zmiana w pom
+
+
+:100644 100644 6f4ab3cf779f7f0f36c00ad6df6518040a395c6d 51dc06b6a86f85ec96f5be7f2e18dffdec2a0ce1 M	pom.xml

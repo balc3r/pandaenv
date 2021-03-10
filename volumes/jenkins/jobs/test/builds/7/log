@@ -1,0 +1,7 @@
+Started by user [8mha:////4FzY2PN8TESmlsoZ5dKjszpjR01TAyNpn+7cGzZ4QvLFAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9gsS8lEQACjKVYMAAAAA=[0mpanda
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins9142473559596675747.sh
+/tmp/jenkins9142473559596675747.sh: 2: /tmp/jenkins9142473559596675747.sh: Syntax error: end of file unexpected (expecting "then")
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

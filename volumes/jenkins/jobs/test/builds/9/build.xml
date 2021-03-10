@@ -1,0 +1,63 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.BooleanParameterValue>
+          <name>boolean_param</name>
+          <description>
+</description>
+          <value>true</value>
+        </hudson.model.BooleanParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>choice_param</name>
+          <description>browser=ff
+env=linux</description>
+          <value>nie</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>string param</name>
+          <description>#!/bin/bash
+if [ $boolean_param=== true ]
+then
+echo &quot;prawda&quot;
+else
+echo &quot;nieprawda&quot;
+fi
+echo $browser
+echo $env
+</description>
+          <value>browser</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames>
+        <string>boolean_param</string>
+        <string>choice_param</string>
+        <string>string param</string>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>panda</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>17</queueId>
+  <timestamp>1613588402913</timestamp>
+  <startTime>1613588402931</startTime>
+  <result>FAILURE</result>
+  <duration>32</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/jenkins_home/workspace/test</workspace>
+  <hudsonVersion>2.279</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

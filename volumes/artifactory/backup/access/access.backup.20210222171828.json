@@ -1,0 +1,66 @@
+{
+  "version" : "8",
+  "encryption" : "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFcEFJQkFBS0NBUUVBbG0zYysyZVZZZGphRmZCY0dYK2wrRkVNZ0h1M2FRT1oyMmdweCsrb2tDeGYvRVBoCm9va3M5VGJWQzJ3QjhTQmp6OW5jdlZSN1NhVkVyYjd3UVBOTzNXME14S01kcWdNQ1VRWldVUWV5V1ZXdDNkbisKTS9EWG9PT01SWkgxRDExdC9vY1QrYnBORmZwc3V4bnJEUUNsRzkvQnQ5NGNVZ0lnWmJ5NlBuV3JCWU1uN0M1TApZZnQwR3pDVnRuWnAzcUlxNTJvUnZVRElYbDZhQmMyWFptQ3JKK3NSc2tXa0hwNWw4VGIxcHZFcVBiNmNNK3lQCnVzSUtlYXNQNjFKSkV0Tk15Y0JEc0dFQUxYbXhGSDZ3N2VMS3VBWEdSaEZCdHN6Q2lkVGpvYTZJTkUwMVlBUXAKYTljL2pIbnpTcENQOHh2bVZ4SkwvcnJDQlRXam1lRlFlWk5BY1FJREFRQUJBb0lCQVFDSnZHaDFUVi9yS3FwdApJaHJDUWkzT2t5OTJTVkVqZDJlZUROOE1zWFRQSmNKeGNob2NQNndKanI0OWFoVFJHczRwVjVzVlJGQnFtMGVxCktzVkRRMFMzM0F5djA0YnF6enlFd2QrdzYvSXllQS90clpkakthZldLZU9iSTh5VjEvOUo2WmF4dHhLMENBc2MKdWR1Tm1VU1VwQ2wwMkl0bno0aW9mc2l0UGdKczFUMngzNk5xUmR3YVNLN3dHdGFYWnVpRzJkRzIxQXR4YTdyZwphVUFLSmJRSWtFekVEZzVJdVgxaEl3MDhoMExUdDJVNEZUcVRjKytlSTBhbk0vREhuNWxJOUVVdTJrVkVpeGZmCkwwVW1zRVdHUWZyM2pVdXpXdlpxZ3lqc1RsbFBZYzhCejM2bXFURXc0UWFkVklJbDNsKzRkUks5aGY5aVZHUmEKcGowYU5WUXRBb0dCQVBObWNrTmwwSkQ4UnhkNXB5K0RVR2ZDVVI0YmhaMGowRkwwWnhKQ2JjQ0hhVWIyNUFIVApaemsxSmpLRWtzY2lBU3Q4OTdpUml0OHVhc0VxQi9FeTNReFJnZkk3WWxMUmxTalc1Vm5FR3RtUVBPbjJ1WUNHClhWb3F6YzdkbXA0Zm4xTW1PemlYVWo3dFVBcHo4TGg3OStWS2VmZFRxQjFqcEsrSmNpVWZXejJEQW9HQkFKNDMKVy9vbmpJME44QnJQcExpYzZ3cXhvTHVmYTM0anhoQ2w2d1orUk9DYjMxMWF1bEpvRGtoM1lObDA1bDZvcWRWUQpLM0M3VEx2N0VzSTJiSS94VlFlSkNvNWhzNGN4MFhYc3ZkN0k3dFBGcEx6cjVKd1RORy82NHFyaHc5QitVbVgzCmRmNzBiRERtMDIyTGFVclowYlVLSW1SRFNFWUR2cGsxR1hWME1IdjdBb0dCQUxxQ2x5NDBGNVR4Njl2K09YRTgKRTJIZTBkL2JRUkIvd0FQQkNqWkF0dThnRkRqdnVSbjVENUVUdkJoYjVFazVNbUpMbVZ0U0UzTWZrMmcvTitUSQpqLy8vZVM3UCtIRHo3bk5qOEUxUDZ5OHB5ck9SZnVZUWovb204SndDelpjN0xoQStMSVVaMTBrbStmMTRpRTRsCm1IaVlFRXZJUy90eFBtSFFWYXBDazl6WEFvR0FabVlOOFdtSFhnT1hVc0x4S1VybUZKWENJYXljTlplUnFWUzUKT0FxaEtYMjRvd01GZERCRWprSTFQSWljVU1kNG84YXZWdGJpWXdlc3JHWHMvWHlFTzh4R09NQ2pJT3p0VkJWVgpEY3VlUnhHei9WSHZNOVI2SzcrRTFIUXA5OWJLSFpSN21mYzN6cTZXU0YvaVZiK0VLbGZVeW0rQlowOGxIS054ClJzTmNYZUVDZ1lBcEZlWmFjMlMzeHpJVG5CcEQwakVwZTJNRDFEUUwxUDVNRXdzLzZhbGhqVUFPMm9Yem9sQVMKTFRiSW93NzlGUktEUVpHSHlmTmNmWm41NzA1STk3ai9IUU9QekszdVFoNnNWUUgzdm1LalpNZHA4YnJNRWM0QgpXZzJyNjgxaEVucDdISGRkd0V2cGRLVkF6M1VQVjJPRzUxdWM5U04waWtzaElzR3FoNjhSRmc9PQotLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLQokYWNjZXNzJC0tLS0tQkVHSU4gQ0VSVElGSUNBVEUtLS0tLQpNSUlESURDQ0FnaWdBd0lCQWdJUkFLK2tDRE9nQkVtcWkrUVNxcU11YnJ3d0RRWUpLb1pJaHZjTkFRRUxCUUF3ClBURTdNRGtHQTFVRUF3d3lTa1p5YjJjZ1ZHOXJaVzRnU1hOemRXVnlJR3BtWVdOQU1ERmxlalZpZUhRMWFIRTQKZUhNd2VEZGlNbUV5TVRCdWQzRXdJQmNOTWpFd01qSXhNVGN4TnpNeFdoZ1BOekF3TURBeE1ERXdNREF3TXpCYQpNRDB4T3pBNUJnTlZCQU1NTWtwR2NtOW5JRlJ2YTJWdUlFbHpjM1ZsY2lCcVptRmpRREF4WlhvMVluaDBOV2h4Ck9IaHpNSGczWWpKaE1qRXdibmR4TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUEKbG0zYysyZVZZZGphRmZCY0dYK2wrRkVNZ0h1M2FRT1oyMmdweCsrb2tDeGYvRVBob29rczlUYlZDMndCOFNCagp6OW5jdlZSN1NhVkVyYjd3UVBOTzNXME14S01kcWdNQ1VRWldVUWV5V1ZXdDNkbitNL0RYb09PTVJaSDFEMTF0Ci9vY1QrYnBORmZwc3V4bnJEUUNsRzkvQnQ5NGNVZ0lnWmJ5NlBuV3JCWU1uN0M1TFlmdDBHekNWdG5acDNxSXEKNTJvUnZVRElYbDZhQmMyWFptQ3JKK3NSc2tXa0hwNWw4VGIxcHZFcVBiNmNNK3lQdXNJS2Vhc1A2MUpKRXROTQp5Y0JEc0dFQUxYbXhGSDZ3N2VMS3VBWEdSaEZCdHN6Q2lkVGpvYTZJTkUwMVlBUXBhOWMvakhuelNwQ1A4eHZtClZ4SkwvcnJDQlRXam1lRlFlWk5BY1FJREFRQUJveGt3RnpBVkJnUlZIUkVCQkEwd0M2QUpCZ1JWSFJFQkFnRUEKTUEwR0NTcUdTSWIzRFFFQkN3VUFBNElCQVFBZXRGRUFtZzNJczdLa2YwTThQcWkzbnZJZ0pkM0xTSVBSNG5hRQpQMHVlUWIvSWJsek94azZCQWZGTlBlYldORXIycTJNWkpzaE00UGdDYnZHaE1iaDk3ejVEQUI2b1FOc3BnQkQvCnVoK0lxL3NuU3JXUWRGemtKNVFxYk5BaG03ZHYrMnY5TDRVV0pEc0JLcGlnNGJkODNkRmY4WVpzQXRhTlc4TkUKV3hsZER3UWo5M2kvU2xKZTdFYkt2cisrV0hHY0Y1ZVdEdVEyWHhreWl2WEV0aDdvSXVqU2g4cWlHZzgwTkYrcwptZ0hOb3V3bmFzdlozeldlRVQrV0lVa3ZRVzhsT1NaZDBCYlpYRWVGQ1Ayc21yL2NhMlVDS3JPTXZRZjhReWhjCm5ncGUwdXBpQ21LdldsR1UycTFESXBldjlydmMwZjZ1NFNQcXg4bjNCNGl2ekVLRgotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCiRhY2Nlc3Mtc2VncyQtLS0tLUJFR0lOIFJTQSBQUklWQVRFIEtFWS0tLS0tCk1JSUVvd0lCQUFLQ0FRRUE0bjJHSGZNa0RLZUN2RHBlWjdPbC8xazVNd3R2c2dQYjA5RTR3QkdwOW55SEQwQkMKTHFYMklsZEVGZVhXb1lsdEFUUEwva2tIVnB5YVRhcDhqWDR3Vis5aXovT3VjTzlJVTBvdE9GRFZPOWFCOUhYbgpBKzlQdmJ1aUNSSloxZmRXV1FmQzJhZEJoUFFkL3ltZ25VS3M2cllEU0NHNW1Qc0hLWjJrZ1BaVDh0R3dvWWpaCnU5RVE1SXEzTS9xeWlFdGV2bjVIQk9FeXlpdi9iWExncjl2dU5HbVhkc2NiRi9DTE5EWUp6RUlIS20xTXJTRjcKN294S0JRVlU5TVN2VVZSL0VxZXBxVkU2RGVMT01CbUFRTmd1Z3Q3SzhhUEVKbTVUaTMxcnd5NXdiZU5sWUQvOAp5a1Y0dDZ2Sm42VVh5bWpQdk9iekNIQmVhbThkS2Yzbml5djZ5UUlEQVFBQkFvSUJBSFR2TWN0TXVSUC9lRFFPClBxZHp6UVJrNEc5R1BFakFUVUt6Qm9YRG1PaTFxbFZwYThJQjFXNHRkKzJHV0tYVitmMWc3TFZBcHhWRWpUWUUKQzRKUjRFdkdRRkgxRWQ4azYwWjFTWnVGd0ZIQWtoL1FyNUVNZ1RNSUtNUmVRUnVETTRXTHlFSHZaSmhzSVFDWQpVV0JnQ0Q2MThrUFBoYTlDQzVTazIwWHA1N1c1TEdpYllyTE1tWU94QTFNTUhkVmh3Z2M4ZUV0WVFUbXNqdGpXClhTdk9CV0FiYW5RSi9ZOFJYSDFTNzJMMGdKYVRIVXpYbThHU29INDFjdUJ1WFVhZCtzMFFTVVNQdFBuNEpnL20KbHVDRjFJSDUvYlA2cEFiMysxNG9VdUZsaExHWEQreW1QeWlVNWZsSHU1bWpnV2Z5QkZMSWhyK1lZbTY2M0IyZQozc01xZHJFQ2dZRUEvY00zN2RFWXRJcWk3Tk1ZajNpNHQzSmV3MHdsQUladmVsODVKSHEvQVZueTZGV0xubE9oCjVtWGtwOENBNHBPeVZuZ0ltTnpHdkhqZk5WL1A2TkRvaU45WUNzakxKZTdXdVVXaGpxL3MyQlExZFVyYlhIcXoKcTVxK0tUR1FzUUNxRHNVdERZZVZyNlJPWGRUeEI2emZCVWxYNEVrTVQ3ak9PVFkzTEhOa05rTUNnWUVBNUh5LwphMWNvK0NWb3dGU1p2VjBjZ2o5RnZiVkg2MC9qams1QkV2VDEwTkFyQVhOMGpXOGZqcEoxOTJIeU5DYTZGY1hQCm5UNEhneEhtUWtldkNQdkFhckUrcjRRQUhzTHFqS052VStZNkl1VVFhamRDUHd0N3NLUGhQUHkvRlJ3V3k4bm4KMXpXMEFNWkZRNWRpRGtZQlRNS3hHN1JwWmhKWFc4cmwxc1RKeUFNQ2dZRUFzK2swUGVlQkhIOHVBN21tTUJIbQo1Q2l5QnNSMWQyblluMm5qbVhsczhnaFRyMlQzRjhremY2Vzk5ekVFTDUrSFVNYkpVWmMxVDJwaTFmU1g4dmdwCjVPQjBDekZRMWhQL0tGdTFydlFMZHliY3Y4dlN1ajVFSStZUjdDSzM4c1lGeTNMLy9oZWlpR1IxS3hGTjBhTSsKZXdFRXpINzl1NGZLcmNWQ1dNRjJ5d0VDZ1lCTVlGTFFPOE5ySjM0YmhHd2J1NHN6RXBscWI3V0p1QnUxenZ5NwpySHlhLzJyUXdsbzhpTi9BbGI2dkllT0hnVWFFenFtMnd5eFpxTnNTWHNub3M5YS9FMTZENXhqdkwzS2Q3bWZoCllMMGdPdmZBdVpZQVl3TkdxWkU2QkxhUEJPT3QzV0VOTkZ0bVF1Q1dWbjBsamtzUzhLV3BRQ1pYUTF4R1I4MksKZkIrREp3S0JnQ0ZiQUdWYmUvMVlLOU1FMjVEejFPNTh1NzJkZWZmWlZEYjlkckNxSU80QXE2cHJ6WS8vZzgwZwpkTS9lN3BNVjBqOE1YOU5RUWs3Wlk2ZnNpY1dkTVRrenpJT09KSGJhMlcrYnpFUDMrRDVRaGREbEg2Z0g3aS9mCmpzclpCaksrS3ZRa1VzN0E5MEhaQlA1c3c5UUNpOGtNUmdjTlc0MmljMkpwMkdNa0swUm4KLS0tLS1FTkQgUlNBIFBSSVZBVEUgS0VZLS0tLS0KJGFjY2VzcyQtLS0tLUJFR0lOIENFUlRJRklDQVRFLS0tLS0KTUlJRE56Q0NBaCtnQXdJQkFnSVJBTUNRaEFEK2drOXVwM0kzNjdrSWdzMHdEUVlKS29aSWh2Y05BUUVMQlFBdwpPREUyTURRR0ExVUVBd3d0U2taeWIyY2dVbTl2ZENCRFFTQnFabUZqUURBeFpYbzFZbmgwTldoeE9IaHpNSGczCllqSmhNakV3Ym5keE1DQVhEVEl4TURJeU1URTNNVGN6TWxvWUR6Y3dNREF3TVRBeE1EQXdNRE13V2pBNE1UWXcKTkFZRFZRUUREQzFLUm5Kdlp5QlNiMjkwSUVOQklHcG1ZV05BTURGbGVqVmllSFExYUhFNGVITXdlRGRpTW1FeQpNVEJ1ZDNFd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFS0FvSUJBUURpZllZZDh5UU1wNEs4Ck9sNW5zNlgvV1RrekMyK3lBOXZUMFRqQUVhbjJmSWNQUUVJdXBmWWlWMFFWNWRhaGlXMEJNOHYrU1FkV25KcE4KcW55TmZqQlg3MkxQODY1dzcwaFRTaTA0VU5VNzFvSDBkZWNENzArOXU2SUpFbG5WOTFaWkI4TFpwMEdFOUIzLwpLYUNkUXF6cXRnTklJYm1ZK3djcG5hU0E5bFB5MGJDaGlObTcwUkRraXJjeityS0lTMTYrZmtjRTRUTEtLLzl0CmN1Q3YyKzQwYVpkMnh4c1g4SXMwTmduTVFnY3FiVXl0SVh2dWpFb0ZCVlQweEs5UlZIOFNwNm1wVVRvTjRzNHcKR1lCQTJDNkMzc3J4bzhRbWJsT0xmV3ZETG5CdDQyVmdQL3pLUlhpM3E4bWZwUmZLYU0rODV2TUljRjVxYngwcAovZWVMSy9ySkFnTUJBQUdqT2pBNE1BNEdBMVVkRHdFQi93UUVBd0lDaERBUEJnTlZIUk1CQWY4RUJUQURBUUgvCk1CVUdCRlVkRVFFRURUQUxvQWtHQkZVZEVRRUNBUUF3RFFZSktvWklodmNOQVFFTEJRQURnZ0VCQUZNY2FoWG4KY0lpdHdwNjh3YXVqRjhEdEd4QXJPSGh1cGdodkptVTBCUWVmYUI1TytSUk9EbFlGcjVHclZnL3dldlBFYU01MQpmaE15cDQ4ODAwdkpvNVYwT2NlWDZnb1M4WmhKaFVoYjBKV3pCS1JqcVVDSFFUbGVMU1FuYlNMd3QzUEFiRDNnCnY1eWRrK0c5eENGVWlqLytaWU1UMzNsOVcvRmpSTzAwK1NtY2NaY1NHNmt5SDg5MkFhYXhON0Z6MzBadEhYSDAKSExiTEJMMU1kM1d2TkpzNkxZeGh1VW1ldzJEN3pPRnZQUVc5Zjg5Mk8yaWZQakZUc0hqM1FScXUxL2ExelJLawp4bGIveXpDUGR5MFpXcDJUV2REV0FGUCsrT1RLRWFNUDdibjc1aVlySzk4VjdhdkdGeFdjd3lXNXRPWmEwOG96CkRjNC8xbzFxQi9EOGZ2MD0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=",
+  "federation_events" : [ ],
+  "groups" : [ ],
+  "federation_servers" : [ ],
+  "users" : [ {
+    "username" : "admin",
+    "firstName" : null,
+    "lastName" : null,
+    "email" : null,
+    "realm" : "internal",
+    "status" : "enabled",
+    "lastLoginTime" : 0,
+    "lastLoginIp" : null,
+    "password" : "argon$$argon2id$v=19$m=512,t=16,p=1$SgjfjWTF3AnCxnDkC/Wozg$RGPdN2s51R4YYhrC8LAwTJJL7cbc2iE/IP+MlZp4TTw",
+    "allowedIps" : [ "127.0.0.1" ],
+    "created" : 1614014253827,
+    "modified" : 1614014253827,
+    "failedLoginAttempts" : 0,
+    "statusLastModified" : 0,
+    "passwordLastModified" : 1614014253696,
+    "customData" : {
+      "updatable_profile" : {
+        "value" : "true",
+        "sensitive" : false,
+        "clusterLocal" : false
+      },
+      "artifactory_admin" : {
+        "value" : "true",
+        "sensitive" : false,
+        "clusterLocal" : false
+      }
+    },
+    "groups" : [ ]
+  } ],
+  "platform_configurations" : [ {
+    "config_key" : "roles.v2.global.configuration",
+    "config" : "{\"roles\":[{\"name\":\"Developer\",\"description\":\"Developer Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":9403119}],\"mask\":0},{\"name\":\"Contributor\",\"description\":\"Contributor Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":866535}],\"mask\":0},{\"name\":\"Viewer\",\"description\":\"Viewer Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":854049}],\"mask\":0},{\"name\":\"Release Manager\",\"description\":\"Release Manager Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":1072693504}],\"mask\":0},{\"name\":\"Project Admin\",\"description\":\"Project Admin Role\",\"type\":\"ADMIN\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":1073741823},{\"name\":\"PROD\",\"mask\":1073741823}],\"mask\":0}]}",
+    "revision" : 1
+  }, {
+    "config_key" : "projects.default.configuration",
+    "config" : "{\"name\":\"default\",\"description\":\"Virtual project with all resources\",\"roles\":{\"Release Manager\":{\"name\":\"Release Manager\",\"description\":\"Release Manager Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":1072693504}],\"mask\":0},\"Developer\":{\"name\":\"Developer\",\"description\":\"Developer Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":9403119}],\"mask\":0},\"Contributor\":{\"name\":\"Contributor\",\"description\":\"Contributor Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":866535}],\"mask\":0},\"Viewer\":{\"name\":\"Viewer\",\"description\":\"Viewer Role\",\"type\":\"PREDEFINED\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":854049}],\"mask\":0},\"Project Admin\":{\"name\":\"Project Admin\",\"description\":\"Project Admin Role\",\"type\":\"ADMIN\",\"environmentActions\":[{\"name\":\"DEV\",\"mask\":1073741823},{\"name\":\"PROD\",\"mask\":1073741823}],\"mask\":0}},\"users\":{},\"groups\":{},\"resources\":{},\"projectAdminCanManageMembers\":true,\"projectAdminCanManageResources\":true,\"projectKey\":\"default\"}",
+    "revision" : 1
+  } ],
+  "permissions" : [ ],
+  "tokens" : [ ],
+  "config" : {
+    "federation" : {
+      "inbound" : {
+        "service-id-mapping" : [ {
+          "from" : "jfrou@*",
+          "to" : "jfrou@01ez5by93gf0scb2nqsd48azve"
+        }, {
+          "from" : "jfmd@*",
+          "to" : "jfmd@01ez5bybevrrz7agatfechpkze"
+        }, {
+          "from" : "jfrt@*",
+          "to" : "jfrt@01ez5bzeg9c3381pa6cqnw07b0"
+        } ]
+      }
+    },
+    "schema-version" : 2
+  },
+  "NodeIdServiceId" : "8774969d97e8###-###jfac@01ez5bxt5hq8xs0x7b2a210nwq"
+}

@@ -1,0 +1,55 @@
+---
+federation:
+  inbound:
+    service-id-mapping:
+    - from: "jfrou@*"
+      to: "jfrou@01ez5by93gf0scb2nqsd48azve"
+    - from: "jfmd@*"
+      to: "jfmd@01ez5bybevrrz7agatfechpkze"
+    - from: "jfrt@*"
+      to: "jfrt@01ez5bzeg9c3381pa6cqnw07b0"
+    - from: "jffe@*"
+      to: "jffe@000"
+    - from: "jfevt@*"
+      to: "jfevt@01ez5bxt5hq8xs0x7b2a210nwq"
+licenses:
+- server-name: "8774969d97e8"
+  key: "cHJvZHVjdHM6CiAgYXJ0aWZhY3Rvcnk6CiAgICBwcm9kdWN0OiBaWGh3YVhKbGN6b2dNakF5TVMw\r\
+    \nd015MHlORlF4Tnpvek1qb3hOaTR6T1RSYUNtbGtPaUF3WW1KbE0yTmpOUzA0TURJeUxUUXdNREl0\r\
+    \nWVRoa01pMWpOemsyWVRNM00yTTBaV1FLYjNkdVpYSTZJRTVGVkVoVlFncHdjbTl3WlhKMGFXVnpP\r\
+    \naUI3ZlFwemFXZHVZWFIxY21VNklHNTFiR3dLZEhKcFlXdzZJSFJ5ZFdVS2RIbHdaVG9nVkZKSlFV\r\
+    \nd0tkbUZzYVdSR2NtOXRPaUF5TURJeExUQXlMVEl5VkRFM09qTXlPakUyTGpNNU5Gb0sKICAgIHNp\r\
+    \nZ25hdHVyZTogR3ZoaFBhNlF1L0w4UWRKeTZBNlVBT0psWDVGM1hPREo1MmRncWVrQlQ4RE1rdjJm\r\
+    \nV0pDUHYwY3ZDSWptbWRWT0JydWt3MzNrSVZiNGwzL3diTlhrS2F0clBLenRDdGsrQndYUEpvKzla\r\
+    \nT1BQVGxjOW5pcGpGR2hDSHliU0YvbzVBcjdCa2RiN2FVM251TkxtTGVHczBlNE5MNHZQRVgraHJ1\r\
+    \naEJPdENHakJKRFJkZHpsdFdzM2NvbjRrYVRyUjRLUkZoR05lTE5DMVVMT1U3OExWM1k2QjZ4c1l5\r\
+    \nYmVGY3dVOXpWYno0Rkh2WDN5cEhXRGp4aHFweStHMUxvcll4eGFselgrcVJRcTk5czhidXZFVlBs\r\
+    \naEgvbHVobUxIcjlGc2h5a0NReTM1Y3l6NUVhbWUwdUs0cGNRYldkeWdLd05qTzdZbDBWc28vMXJh\r\
+    \naURaaTBWUGZnPT0KdmVyc2lvbjogMQo=\r\n"
+- server-name: "6730bafc79ce"
+  key: "cHJvZHVjdHM6CiAgYXJ0aWZhY3Rvcnk6CiAgICBwcm9kdWN0OiBaWGh3YVhKbGN6b2dNakF5TVMw\r\
+    \nd015MHlORlF4Tnpvek1qb3hOaTR6T1RSYUNtbGtPaUF3WW1KbE0yTmpOUzA0TURJeUxUUXdNREl0\r\
+    \nWVRoa01pMWpOemsyWVRNM00yTTBaV1FLYjNkdVpYSTZJRTVGVkVoVlFncHdjbTl3WlhKMGFXVnpP\r\
+    \naUI3ZlFwemFXZHVZWFIxY21VNklHNTFiR3dLZEhKcFlXdzZJSFJ5ZFdVS2RIbHdaVG9nVkZKSlFV\r\
+    \nd0tkbUZzYVdSR2NtOXRPaUF5TURJeExUQXlMVEl5VkRFM09qTXlPakUyTGpNNU5Gb0sKICAgIHNp\r\
+    \nZ25hdHVyZTogR3ZoaFBhNlF1L0w4UWRKeTZBNlVBT0psWDVGM1hPREo1MmRncWVrQlQ4RE1rdjJm\r\
+    \nV0pDUHYwY3ZDSWptbWRWT0JydWt3MzNrSVZiNGwzL3diTlhrS2F0clBLenRDdGsrQndYUEpvKzla\r\
+    \nT1BQVGxjOW5pcGpGR2hDSHliU0YvbzVBcjdCa2RiN2FVM251TkxtTGVHczBlNE5MNHZQRVgraHJ1\r\
+    \naEJPdENHakJKRFJkZHpsdFdzM2NvbjRrYVRyUjRLUkZoR05lTE5DMVVMT1U3OExWM1k2QjZ4c1l5\r\
+    \nYmVGY3dVOXpWYno0Rkh2WDN5cEhXRGp4aHFweStHMUxvcll4eGFselgrcVJRcTk5czhidXZFVlBs\r\
+    \naEgvbHVobUxIcjlGc2h5a0NReTM1Y3l6NUVhbWUwdUs0cGNRYldkeWdLd05qTzdZbDBWc28vMXJh\r\
+    \naURaaTBWUGZnPT0KdmVyc2lvbjogMQo=\r\n"
+- server-name: "cb8a414abafa"
+  key: "cHJvZHVjdHM6CiAgYXJ0aWZhY3Rvcnk6CiAgICBwcm9kdWN0OiBaWGh3YVhKbGN6b2dNakF5TVMw\r\
+    \nd015MHlORlF4Tnpvek1qb3hOaTR6T1RSYUNtbGtPaUF3WW1KbE0yTmpOUzA0TURJeUxUUXdNREl0\r\
+    \nWVRoa01pMWpOemsyWVRNM00yTTBaV1FLYjNkdVpYSTZJRTVGVkVoVlFncHdjbTl3WlhKMGFXVnpP\r\
+    \naUI3ZlFwemFXZHVZWFIxY21VNklHNTFiR3dLZEhKcFlXdzZJSFJ5ZFdVS2RIbHdaVG9nVkZKSlFV\r\
+    \nd0tkbUZzYVdSR2NtOXRPaUF5TURJeExUQXlMVEl5VkRFM09qTXlPakUyTGpNNU5Gb0sKICAgIHNp\r\
+    \nZ25hdHVyZTogR3ZoaFBhNlF1L0w4UWRKeTZBNlVBT0psWDVGM1hPREo1MmRncWVrQlQ4RE1rdjJm\r\
+    \nV0pDUHYwY3ZDSWptbWRWT0JydWt3MzNrSVZiNGwzL3diTlhrS2F0clBLenRDdGsrQndYUEpvKzla\r\
+    \nT1BQVGxjOW5pcGpGR2hDSHliU0YvbzVBcjdCa2RiN2FVM251TkxtTGVHczBlNE5MNHZQRVgraHJ1\r\
+    \naEJPdENHakJKRFJkZHpsdFdzM2NvbjRrYVRyUjRLUkZoR05lTE5DMVVMT1U3OExWM1k2QjZ4c1l5\r\
+    \nYmVGY3dVOXpWYno0Rkh2WDN5cEhXRGp4aHFweStHMUxvcll4eGFselgrcVJRcTk5czhidXZFVlBs\r\
+    \naEgvbHVobUxIcjlGc2h5a0NReTM1Y3l6NUVhbWUwdUs0cGNRYldkeWdLd05qTzdZbDBWc28vMXJh\r\
+    \naURaaTBWUGZnPT0KdmVyc2lvbjogMQo=\r\n"
+schema-version: 2

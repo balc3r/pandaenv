@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-02-17 18:09:30.925 UTC</timestamp>
+  <md5sum>5bdf80db79f273badf17d591f9d6a449</md5sum>
+  <fileName>Credential id=Git-credentials name=balc3r/****** (GIT)</fileName>
+  <usages>
+    <entry>
+      <string>CodePull</string>
+      <ranges>2-15</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
